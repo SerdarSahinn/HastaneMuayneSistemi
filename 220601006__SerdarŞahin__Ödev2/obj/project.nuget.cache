@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vE9GWcAeNOZcagb84ttLoC0TKG/mMs1ZiLJBva3uzSp13y68nTcraufEZODcq6FBApVNrlS9+DoCEG9O5W4WcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90531\\OneDrive\\Masaüstü\\220601006__SerdarŞahin__Ödev2\\220601006__SerdarŞahin__Ödev2\\220601006__SerdarŞahin__Ödev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90531\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\90531\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
